@@ -1,0 +1,36 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "buildguessapi",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+          "build",
+          "${workspaceFolder}/Cinevoraces.GuessTheMovieAPI/Cinevoraces.GuessTheMovieAPI.csproj"
+        ],
+        "problemMatcher": "$msCompile"
+      },
+      {
+        "label": "build",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+          "build",
+          "${workspaceFolder}/Cinevoraces.GuessTheMovieAPI/Cinevoraces.GuessTheMovieAPI.csproj"
+        ],
+        "problemMatcher": "$msCompile"
+      },
+      {
+        "label": "run",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+          "run",
+          "${workspaceFolder}/Cinevoraces.GuessTheMovieAPI/Cinevoraces.GuessTheMovieAPI.csproj"
+        ],
+        "problemMatcher": "$msCompile"
+      }
+    ]
+  }
+  

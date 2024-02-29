@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinevoraces.GuessTheMovieAPI", "Cinevoraces.GuessTheMovieAPI\Cinevoraces.GuessTheMovieAPI.csproj", "{DABD88A5-6A9E-4208-B323-E0A1675CCDBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABD88A5-6A9E-4208-B323-E0A1675CCDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABD88A5-6A9E-4208-B323-E0A1675CCDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABD88A5-6A9E-4208-B323-E0A1675CCDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABD88A5-6A9E-4208-B323-E0A1675CCDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

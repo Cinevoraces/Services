@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Cinevoraces.GuessTheMovieAPI.props" />
+</Project>
