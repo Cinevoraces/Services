@@ -107,6 +107,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Cinevoraces.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Cinevoraces.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cinevoraces.Utils.dll": {}
+        }
       }
     }
   },
@@ -460,10 +470,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Cinevoraces.Utils/1.0.0": {
+      "type": "project",
+      "path": "../Cinevoraces.Utils/Cinevoraces.Utils.csproj",
+      "msbuildProject": "../Cinevoraces.Utils/Cinevoraces.Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Cinevoraces.Utils >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.2",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -492,7 +508,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\JulienGoletto\\cinevoraces\\Cinevoraces.Utils\\Cinevoraces.Utils.csproj": {
+              "projectPath": "C:\\Users\\JulienGoletto\\cinevoraces\\Cinevoraces.Utils\\Cinevoraces.Utils.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

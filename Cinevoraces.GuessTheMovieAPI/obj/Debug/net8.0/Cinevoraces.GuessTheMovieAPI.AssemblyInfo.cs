@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cinevoraces.GuessTheMovieAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a0106caa885db9999a85eb28807650d3218e57f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cinevoraces.GuessTheMovieAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cinevoraces.GuessTheMovieAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

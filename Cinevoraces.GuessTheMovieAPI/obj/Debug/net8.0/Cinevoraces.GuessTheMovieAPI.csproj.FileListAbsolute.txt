@@ -31,3 +31,6 @@ C:\Users\JulienGoletto\cinevoraces\Cinevoraces.GuessTheMovieAPI\obj\Debug\net8.0
 C:\Users\JulienGoletto\cinevoraces\Cinevoraces.GuessTheMovieAPI\obj\Debug\net8.0\Cinevoraces.GuessTheMovieAPI.pdb
 C:\Users\JulienGoletto\cinevoraces\Cinevoraces.GuessTheMovieAPI\obj\Debug\net8.0\Cinevoraces.GuessTheMovieAPI.genruntimeconfig.cache
 C:\Users\JulienGoletto\cinevoraces\Cinevoraces.GuessTheMovieAPI\obj\Debug\net8.0\ref\Cinevoraces.GuessTheMovieAPI.dll
+C:\Users\JulienGoletto\cinevoraces\Cinevoraces.GuessTheMovieAPI\bin\Debug\net8.0\Cinevoraces.Utils.dll
+C:\Users\JulienGoletto\cinevoraces\Cinevoraces.GuessTheMovieAPI\bin\Debug\net8.0\Cinevoraces.Utils.pdb
+C:\Users\JulienGoletto\cinevoraces\Cinevoraces.GuessTheMovieAPI\obj\Debug\net8.0\Cinevoraces.GuessTheMovieAPI.sourcelink.json
